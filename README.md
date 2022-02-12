@@ -20,4 +20,11 @@ The four modules build on one another and by the end of the course are:
 * Highlight the advantages of the lakehouse architecture.
 * Identify the value add of combining Delta Lake with Apache Spark
 
-## Execution strategy
+
+ ### Program Execution
+1.  Create a free account on databricks community edition
+2.  Clone and zip the project
+3.  Import the project into Databricks workspace 
+4.  Create a cluster on your workspace
+5.  Run the project setting from the include folder
+6.  Run the individual Notebooks
