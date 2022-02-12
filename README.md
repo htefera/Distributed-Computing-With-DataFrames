@@ -10,5 +10,13 @@ The four modules build on one another and by the end of the course are:
 * How to build a machine learning model
 ## key takeaways
 
+* Understand DataFrames, key data structure of Apache Spark
+* Write SQL code that executes against a cluster of machines
+* How to cache your data for increased performance
+* Understand and excercise Adaptive Query Execution(AQE)
+* Access data in a variety of formats and compare and contrast the tradeoff 
+* Identify key characteristics of data lakes and data warehouses.
+* Highlight the advantages of the lakehouse architecture.
+* Identify the value add of combining Delta Lake with Apache Spark
 
-
+## Execution strategy
