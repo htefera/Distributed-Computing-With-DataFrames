@@ -15,6 +15,7 @@ The four modules build on one another and by the end of the course are:
 * How to cache your data for increased performance
 * Understand and excercise Adaptive Query Execution(AQE)
 * Access data in a variety of formats and compare and contrast the tradeoff 
+* Data parallelism and Reparitition
 * Identify key characteristics of data lakes and data warehouses.
 * Highlight the advantages of the lakehouse architecture.
 * Identify the value add of combining Delta Lake with Apache Spark
