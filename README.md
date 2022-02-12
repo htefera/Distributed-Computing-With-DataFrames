@@ -8,3 +8,7 @@ The four modules build on one another and by the end of the course are:
 * Spark DataFrame
 * Optimizing reading/writing data
 * How to build a machine learning model
+## Key take aways
+
+
+
