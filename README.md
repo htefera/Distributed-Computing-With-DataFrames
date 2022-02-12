@@ -1,4 +1,4 @@
-#Distributed Computing with Spark SQL
+## Distributed Computing with Spark SQL
 
 This course is provided by University of California Davis on coursera, which provides a comprehensive overview of distributed computing using Spark.
 
